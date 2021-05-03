@@ -5,7 +5,9 @@ The issue of waste classification can be addressed through social and environmen
 ## Usage
 
 Download the models from (900mb): https://drive.google.com/file/d/1YTJ8Af8BrC809GSjj31PYl0E5_66uYeU/view?usp=sharing
+
 Make sure the required models are present in the `/models` folder in root directory and run the whole notebook. 
+
 Change the file paths in the notebook for importing/exporting files if required. 
 
 ## Model and Dataset Specifications
