@@ -8,7 +8,7 @@ Project Document: https://docs.google.com/document/d/1xKJG0Gkxy-5qf1hX6r2TByoMeE
 
 Download the models from (900mb): https://drive.google.com/file/d/1YTJ8Af8BrC809GSjj31PYl0E5_66uYeU/view?usp=sharing
 
-Make sure the required models are present in the `/models` folder in root directory and run the whole notebook. 
+Make sure the required models are present in the `/data/models` folder in root directory and run the whole notebook. 
 
 Change the file paths in the notebook for importing/exporting files if required. 
 
