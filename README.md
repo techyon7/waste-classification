@@ -2,6 +2,8 @@
 
 The issue of waste classification can be addressed through social and environmental awareness, labelled dustbins or dumping areas for categorized wastes, educating citizens to be responsible and aware about waste categorization. The CNNs can be otherwise used with little effort in promoting awareness and incorporating people to follow a certain custom into dumping objects in the right dustbin.
 
+Project Document: https://docs.google.com/document/d/1xKJG0Gkxy-5qf1hX6r2TByoMeEH-zllJR6Ein8RTO9w/edit?usp=sharing
+
 ## Usage
 
 Download the models from (900mb): https://drive.google.com/file/d/1YTJ8Af8BrC809GSjj31PYl0E5_66uYeU/view?usp=sharing
